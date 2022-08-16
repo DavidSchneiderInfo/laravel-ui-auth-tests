@@ -1,6 +1,6 @@
 <?php
 
-namespace DCzajkowski\AuthTests;
+namespace DavidSchneiderInfo\AuthTests;
 
 use DCzajkowski\AuthTests\Console\Commands\AuthTestsMakeCommand;
 use Illuminate\Support\ServiceProvider;
