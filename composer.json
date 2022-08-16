@@ -1,12 +1,12 @@
 {
-    "name": "dczajkowski/auth-tests",
+    "name": "DavidSchneiderInfo/laravel-ui-auth-tests",
     "description": "Authentication tests for Laravel built-in authentication module.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Dariusz Czajkowski",
-            "email": "dare.czajkowski@gmail.com",
-            "homepage": "https://dczajkowski.com"
+            "name": "David Schneider",
+            "email": "kontakt@davidschneider.info",
+            "homepage": "https://www.davidschneider.info"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DCzajkowski\\AuthTests\\AuthTestsServiceProvider"
+                "DavidSchneiderInfo\\AuthTests\\AuthTestsServiceProvider"
             ]
         }
     },
